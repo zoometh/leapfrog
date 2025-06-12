@@ -1,6 +1,5 @@
 library(sp)
 library(raster)
-library(rgeos)
 library(dplyr)
 library(openxlsx)
 
