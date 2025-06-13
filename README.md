@@ -1,3 +1,3 @@
 # Leapfrog
 
-The app hosted in the CEPAM is not working: https://devr.cepam.cnrs.fr/shinyapps/leap/
+The app hosted in the CEPAM is: https://devr.cepam.cnrs.fr/shinyapps/leap/
